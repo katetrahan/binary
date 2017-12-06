@@ -1,6 +1,6 @@
 // Back End Logic
 var binaryToDecimal = function (number) {
-  return 0;
+  return number;
 }
 
 
